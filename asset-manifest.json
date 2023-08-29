@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/karan0207/gpt3-web.git/static/css/main.367df50a.css",
+    "main.js": "/karan0207/gpt3-web.git/static/js/main.d49125ff.js",
+    "static/media/blog01.png": "/karan0207/gpt3-web.git/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/ai img.png": "/karan0207/gpt3-web.git/static/media/ai img.95923facdeaec3fba64b.png",
+    "static/media/blog03.png": "/karan0207/gpt3-web.git/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/karan0207/gpt3-web.git/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/karan0207/gpt3-web.git/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/karan0207/gpt3-web.git/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/robo img.png": "/karan0207/gpt3-web.git/static/media/robo img.58f247c124e9b46a0aef.png",
+    "static/media/people.png": "/karan0207/gpt3-web.git/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/karan0207/gpt3-web.git/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/karan0207/gpt3-web.git/index.html",
+    "main.367df50a.css.map": "/karan0207/gpt3-web.git/static/css/main.367df50a.css.map",
+    "main.d49125ff.js.map": "/karan0207/gpt3-web.git/static/js/main.d49125ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.367df50a.css",
+    "static/js/main.d49125ff.js"
+  ]
+}
